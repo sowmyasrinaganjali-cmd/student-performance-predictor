@@ -4,7 +4,7 @@ An AI-powered machine learning web application that predicts student academic pe
 
 ## 🚀 Live Demo
 
-[Open Student Performance AI](PASTE-YOUR-STREAMLIT-LINK-HERE)
+[Open Student Performance AI](https://student-performance-predictor-ckxzwvvjlt8gdmhrkbg9ns.streamlit.app/PASTE-YOUR-STREAMLIT-LINK-HERE)
 
 ## 📌 About the Project
 
